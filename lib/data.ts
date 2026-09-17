@@ -110,8 +110,8 @@ export const projects: Project[] = [
     stack: ['Next.js', 'TypeScript', 'Cloudflare Workers', 'shadcn/ui'],
     links: {
       github: 'https://github.com/FactorSphere',
-      live: 'https://factorsphere.org',
-      website: 'https://lander.factorsphere.org',
+      live: 'https://factorsphere.smann.cc',
+      website: 'https://lander.factorsphere.smann.cc',
     },
     featured: true,
     content: {

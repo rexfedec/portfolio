@@ -76,7 +76,7 @@ AVAILABLE INTERNAL LINKS (use these when relevant):
 AVAILABLE EXTERNAL LINKS (use these when relevant):
 https://github.com/REXFEDEC — personal GitHub
 https://sieve.smann.cc — Sieve
-https://lander.factorsphere.org — FactorSphere
+https://lander.factorsphere.smann.cc — FactorSphere
 https://aipdf.smann.cc — AI PDF
 https://github.com/REXFEDEC/ScanWeb — ScanWeb
 https://github.com/REXFEDEC/SecureNotes — SecureNotes
@@ -124,7 +124,7 @@ Timeline: Built in 2 days (vision AI pipeline, cross-platform app, CLI tool, des
 
 [FACTORSPHERE]
 Internal link: /projects/factorsphere
-External: https://lander.factorsphere.org | https://github.com/factorsphere
+External: https://lander.factorsphere.smann.cc | https://github.com/factorsphere
 What it is: Real-time collaborative factor analysis tool. Users create variables, add data points, and FactorSphere automatically runs factor analysis, shows correlations, creates interactive scatter plots, and exports results.
 Key facts: Runs factor analysis in browser using WebGL acceleration. No accounts, no data collection. Everything stays client-side.
 Platforms: Web browser

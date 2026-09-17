@@ -40,8 +40,8 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
       case 'factorsphere':
         return [
           { label: 'GitHub repository', href: "https://github.com/FactorSphere" },
-          { label: 'Lander', href: "https://lander.factorsphere.org/" },
-          { label: 'Tool', href: "https://factorsphere.org/" },
+          { label: 'Lander', href: "https://lander.factorsphere.smann.cc/" },
+          { label: 'Tool', href: "https://factorsphere.smann.cc/" },
         ]
       case 'aipdf':
         return [

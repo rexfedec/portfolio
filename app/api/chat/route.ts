@@ -31,8 +31,8 @@ https://github.com/REXFEDEC — personal GitHub
 https://github.com/FactorSphere — FactorSphere org
 https://github.com/sieve-labs — Sieve org
 https://github.com/sieve-labs/sieve-app/releases — Sieve downloads
-https://factorsphere.org — FactorSphere app
-https://lander.factorsphere.org — FactorSphere lander
+https://factorsphere.smann.cc — FactorSphere app
+https://lander.factorsphere.smann.cc — FactorSphere lander
 https://sieve.smann.cc — Sieve landing page
 https://pdf.smann.cc — AiPDF Summarizer
 https://github.com/REXFEDEC/ScanWeb — ScanWeb
@@ -84,7 +84,7 @@ Origin: Evolved from an earlier experiment called labi-old.
 
 [FACTORSPHERE]
 Internal link: /projects/factorsphere
-External: https://factorsphere.org | https://lander.factorsphere.org | https://github.com/FactorSphere
+External: https://factorsphere.smann.cc | https://lander.factorsphere.smann.cc | https://github.com/FactorSphere
 What it is: Open-source academic journal ranking platform. 4,000+ journals, multi-dimensional ranking, AI-powered recommendations via semantic search on abstracts, fully transparent methodology, open data under Unlicense.
 Stack: Next.js App Router + TypeScript + Cloudflare Workers (app) · Next.js 15 + Tailwind v4 + Cloudflare Pages (landing)
 Built in: ~1 month. Still maintained.
